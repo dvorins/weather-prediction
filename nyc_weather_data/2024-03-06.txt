@@ -1,0 +1,47 @@
+Time
+Temperature
+Dew Point
+Humidity
+Wind
+Wind Speed
+Wind Gust
+Pressure
+Precip.
+Condition
+1:51 AM 48 °F 42 °F 80 % W 9 mph 0 mph 30.03 in 0.0 in Cloudy
+2:51 AM 48 °F 43 °F 83 % W 9 mph 0 mph 30.02 in 0.0 in Cloudy
+3:14 AM 48 °F 43 °F 83 % W 6 mph 0 mph 30.02 in 0.0 in Cloudy
+3:51 AM 48 °F 43 °F 83 % SW 5 mph 0 mph 30.01 in 0.0 in Cloudy
+4:51 AM 48 °F 42 °F 80 % SSW 6 mph 0 mph 30.02 in 0.0 in Cloudy
+5:51 AM 48 °F 43 °F 83 % SSW 7 mph 0 mph 30.03 in 0.0 in Cloudy
+6:51 AM 48 °F 43 °F 83 % S 5 mph 0 mph 30.03 in 0.0 in Cloudy
+6:59 AM 48 °F 43 °F 83 % SSW 5 mph 0 mph 30.03 in 0.0 in Cloudy
+7:51 AM 48 °F 44 °F 86 % CALM 0 mph 0 mph 30.03 in 0.0 in Cloudy
+8:51 AM 49 °F 45 °F 86 % CALM 0 mph 0 mph 30.04 in 0.0 in Cloudy
+9:51 AM 51 °F 45 °F 80 % NE 5 mph 0 mph 30.03 in 0.0 in Cloudy
+10:51 AM 50 °F 44 °F 80 % S 7 mph 0 mph 30.04 in 0.0 in Cloudy
+11:34 AM 49 °F 44 °F 83 % SE 7 mph 0 mph 30.04 in 0.0 in Cloudy
+11:51 AM 50 °F 44 °F 80 % SSE 9 mph 0 mph 30.04 in 0.0 in Cloudy
+12:51 PM 49 °F 45 °F 86 % S 6 mph 0 mph 30.03 in 0.0 in Cloudy
+1:10 PM 49 °F 45 °F 86 % VAR 5 mph 0 mph 30.01 in 0.0 in Cloudy
+1:51 PM 50 °F 45 °F 83 % S 5 mph 0 mph 30.01 in 0.0 in Light Rain
+2:21 PM 49 °F 45 °F 86 % S 5 mph 0 mph 30.00 in 0.0 in Light Rain
+2:51 PM 49 °F 45 °F 86 % S 3 mph 0 mph 29.99 in 0.0 in Light Rain
+3:51 PM 48 °F 44 °F 86 % ENE 9 mph 0 mph 29.96 in 0.1 in Light Rain
+4:24 PM 48 °F 45 °F 89 % ENE 13 mph 0 mph 29.95 in 0.0 in Rain
+4:51 PM 47 °F 43 °F 86 % ENE 12 mph 0 mph 29.93 in 0.1 in Rain
+4:57 PM 47 °F 44 °F 90 % ENE 13 mph 0 mph 29.93 in 0.0 in Light Rain
+5:51 PM 48 °F 44 °F 86 % NE 12 mph 21 mph 29.90 in 0.2 in Heavy Rain
+6:51 PM 46 °F 43 °F 89 % NNE 7 mph 0 mph 29.89 in 0.3 in Heavy Rain
+7:51 PM 45 °F 41 °F 86 % NE 17 mph 0 mph 29.85 in 0.4 in Heavy Rain
+8:18 PM 45 °F 41 °F 86 % NE 18 mph 0 mph 29.84 in 0.2 in Heavy Rain
+8:51 PM 45 °F 41 °F 86 % NE 23 mph 32 mph 29.82 in 0.3 in Rain / Windy
+9:25 PM 45 °F 42 °F 90 % NE 18 mph 30 mph 29.80 in 0.1 in Light Rain
+9:51 PM 45 °F 41 °F 86 % NE 23 mph 0 mph 29.78 in 0.1 in Light Rain / Windy
+10:26 PM 45 °F 41 °F 86 % NE 17 mph 31 mph 29.77 in 0.0 in Light Rain
+10:51 PM 44 °F 40 °F 85 % NE 16 mph 0 mph 29.75 in 0.0 in Light Rain
+11:10 PM 44 °F 41 °F 89 % NE 15 mph 0 mph 29.75 in 0.0 in Light Rain
+11:43 PM 44 °F 41 °F 89 % NE 13 mph 0 mph 29.73 in 0.0 in Light Rain
+11:51 PM 44 °F 41 °F 89 % NE 14 mph 0 mph 29.72 in 0.1 in Light Rain
+12:12 AM 45 °F 42 °F 90 % NE 15 mph 0 mph 29.70 in 0.0 in Light Rain
+12:51 AM 46 °F 43 °F 89 % NNE 7 mph 0 mph 29.70 in 0.0 in Light Rain

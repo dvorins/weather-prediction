@@ -1,0 +1,39 @@
+Time
+Temperature
+Dew Point
+Humidity
+Wind
+Wind Speed
+Wind Gust
+Pressure
+Precip.
+Condition
+1:41 AM 42 °F 37 °F 82 % SE 3 mph 0 mph 29.65 in 0.0 in Light Rain
+1:51 AM 42 °F 37 °F 82 % ESE 6 mph 0 mph 29.63 in 0.0 in Light Rain
+2:51 AM 41 °F 37 °F 86 % NE 7 mph 0 mph 29.60 in 0.0 in Light Rain
+3:51 AM 40 °F 37 °F 89 % NE 8 mph 0 mph 29.56 in 0.0 in Light Rain
+4:51 AM 40 °F 36 °F 86 % NE 9 mph 0 mph 29.54 in 0.0 in Cloudy
+5:39 AM 40 °F 37 °F 89 % ENE 3 mph 0 mph 29.53 in 0.0 in Light Rain
+5:51 AM 40 °F 37 °F 89 % VAR 6 mph 0 mph 29.52 in 0.0 in Light Rain
+6:17 AM 40 °F 37 °F 89 % NE 8 mph 0 mph 29.52 in 0.0 in Cloudy
+6:43 AM 40 °F 37 °F 89 % NNE 5 mph 0 mph 29.52 in 0.0 in Cloudy
+6:49 AM 39 °F 37 °F 93 % NE 6 mph 0 mph 29.51 in 0.0 in Cloudy
+6:51 AM 40 °F 37 °F 89 % NE 6 mph 0 mph 29.52 in 0.0 in Cloudy
+7:51 AM 41 °F 38 °F 89 % N 3 mph 0 mph 29.51 in 0.0 in Mostly Cloudy
+8:51 AM 43 °F 39 °F 86 % NNW 3 mph 0 mph 29.51 in 0.0 in Mostly Cloudy
+9:51 AM 43 °F 39 °F 86 % WNW 7 mph 0 mph 29.51 in 0.0 in Cloudy
+10:51 AM 43 °F 39 °F 86 % WNW 3 mph 0 mph 29.50 in 0.0 in Cloudy
+11:51 AM 44 °F 39 °F 82 % NNW 8 mph 0 mph 29.48 in 0.0 in Cloudy
+12:51 PM 45 °F 39 °F 80 % N 5 mph 0 mph 29.48 in 0.0 in Light Rain
+1:51 PM 46 °F 38 °F 73 % N 7 mph 0 mph 29.45 in 0.0 in Cloudy
+2:51 PM 45 °F 37 °F 74 % N 9 mph 0 mph 29.45 in 0.0 in Cloudy
+3:51 PM 45 °F 36 °F 71 % NNE 10 mph 0 mph 29.43 in 0.0 in Mostly Cloudy
+4:51 PM 45 °F 36 °F 71 % NNW 7 mph 0 mph 29.43 in 0.0 in Mostly Cloudy
+5:51 PM 45 °F 37 °F 74 % NNE 6 mph 0 mph 29.43 in 0.0 in Cloudy
+6:51 PM 46 °F 36 °F 68 % N 6 mph 0 mph 29.43 in 0.0 in Mostly Cloudy
+7:51 PM 46 °F 36 °F 68 % N 6 mph 0 mph 29.45 in 0.0 in Mostly Cloudy
+8:51 PM 45 °F 36 °F 71 % N 8 mph 0 mph 29.45 in 0.0 in Mostly Cloudy
+9:51 PM 45 °F 36 °F 71 % N 6 mph 0 mph 29.45 in 0.0 in Mostly Cloudy
+10:51 PM 44 °F 35 °F 71 % CALM 0 mph 0 mph 29.45 in 0.0 in Mostly Cloudy
+11:51 PM 44 °F 36 °F 73 % NW 8 mph 0 mph 29.44 in 0.0 in Mostly Cloudy
+12:51 AM 44 °F 36 °F 73 % NNW 8 mph 0 mph 29.44 in 0.0 in Mostly Cloudy
