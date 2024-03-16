@@ -1,0 +1,35 @@
+Time
+Temperature
+Dew Point
+Humidity
+Wind
+Wind Speed
+Wind Gust
+Pressure
+Precip.
+Condition
+1:53 AM 34 °F 25 °F 70 % WNW 7 mph 0 mph 29.18 in 0.0 in Fair
+2:53 AM 33 °F 25 °F 72 % NW 7 mph 0 mph 29.20 in 0.0 in Fair
+3:53 AM 34 °F 25 °F 70 % NNW 10 mph 0 mph 29.22 in 0.0 in Fair
+4:53 AM 33 °F 26 °F 75 % NNW 9 mph 0 mph 29.23 in 0.0 in Fair
+5:53 AM 32 °F 24 °F 73 % NNW 8 mph 0 mph 29.25 in 0.0 in Fair
+6:53 AM 31 °F 23 °F 72 % NNW 8 mph 0 mph 29.27 in 0.0 in Fair
+7:53 AM 30 °F 22 °F 72 % NW 8 mph 0 mph 29.28 in 0.0 in Fair
+8:53 AM 32 °F 23 °F 69 % NNW 7 mph 0 mph 29.30 in 0.0 in Fair
+8:55 AM 32 °F 23 °F 69 % NW 8 mph 0 mph 29.30 in 0.0 in Fair
+9:53 AM 35 °F 24 °F 64 % NNW 10 mph 0 mph 29.33 in 0.0 in Fair
+10:53 AM 37 °F 21 °F 52 % NW 10 mph 0 mph 29.35 in 0.0 in Fair
+11:53 AM 39 °F 21 °F 49 % N 10 mph 0 mph 29.37 in 0.0 in Mostly Cloudy
+12:53 PM 41 °F 21 °F 45 % NNW 10 mph 0 mph 29.37 in 0.0 in Mostly Cloudy
+1:53 PM 40 °F 21 °F 47 % NW 10 mph 0 mph 29.36 in 0.0 in Mostly Cloudy
+2:53 PM 41 °F 19 °F 41 % WNW 8 mph 0 mph 29.36 in 0.0 in Mostly Cloudy
+3:53 PM 41 °F 18 °F 40 % NNW 8 mph 0 mph 29.36 in 0.0 in Partly Cloudy
+4:53 PM 40 °F 18 °F 41 % WNW 10 mph 0 mph 29.37 in 0.0 in Fair
+5:53 PM 38 °F 17 °F 43 % WNW 10 mph 0 mph 29.39 in 0.0 in Fair
+6:53 PM 36 °F 17 °F 46 % NNW 9 mph 0 mph 29.41 in 0.0 in Fair
+7:53 PM 34 °F 18 °F 52 % NW 5 mph 0 mph 29.44 in 0.0 in Fair
+8:53 PM 34 °F 18 °F 52 % NNW 5 mph 0 mph 29.45 in 0.0 in Mostly Cloudy
+9:53 PM 35 °F 18 °F 50 % CALM 0 mph 0 mph 29.46 in 0.0 in Partly Cloudy
+10:53 PM 35 °F 17 °F 48 % NE 5 mph 0 mph 29.45 in 0.0 in Fair
+11:53 PM 33 °F 18 °F 54 % E 3 mph 0 mph 29.45 in 0.0 in Fair
+12:53 AM 32 °F 18 °F 56 % CALM 0 mph 0 mph 29.47 in 0.0 in Fair

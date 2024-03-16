@@ -1,0 +1,44 @@
+Time
+Temperature
+Dew Point
+Humidity
+Wind
+Wind Speed
+Wind Gust
+Pressure
+Precip.
+Condition
+1:53 AM 47 °F 31 °F 54 % S 9 mph 0 mph 29.29 in 0.0 in Cloudy
+2:53 AM 48 °F 31 °F 52 % S 12 mph 0 mph 29.28 in 0.0 in Cloudy
+3:53 AM 48 °F 32 °F 54 % S 9 mph 0 mph 29.27 in 0.0 in Cloudy
+4:53 AM 49 °F 31 °F 50 % S 14 mph 22 mph 29.27 in 0.0 in Cloudy
+5:53 AM 50 °F 31 °F 48 % S 14 mph 23 mph 29.24 in 0.0 in Cloudy
+6:53 AM 50 °F 32 °F 50 % S 13 mph 24 mph 29.22 in 0.0 in Cloudy
+7:53 AM 49 °F 34 °F 56 % S 13 mph 22 mph 29.20 in 0.0 in Partly Cloudy
+8:53 AM 48 °F 34 °F 58 % S 14 mph 0 mph 29.20 in 0.0 in Partly Cloudy
+9:53 AM 52 °F 35 °F 53 % SSW 15 mph 25 mph 29.19 in 0.0 in Partly Cloudy
+10:53 AM 55 °F 36 °F 49 % SSW 17 mph 33 mph 29.16 in 0.0 in Partly Cloudy
+11:53 AM 58 °F 38 °F 47 % SSW 18 mph 35 mph 29.16 in 0.0 in Partly Cloudy
+12:53 PM 58 °F 40 °F 51 % SSW 24 mph 37 mph 29.10 in 0.0 in Mostly Cloudy / Windy
+1:53 PM 58 °F 43 °F 58 % SSW 28 mph 43 mph 29.08 in 0.0 in Cloudy / Windy
+2:53 PM 57 °F 44 °F 62 % SSW 24 mph 37 mph 29.05 in 0.0 in Cloudy / Windy
+3:28 PM 57 °F 45 °F 64 % SSW 17 mph 35 mph 29.04 in 0.0 in Light Rain
+3:53 PM 57 °F 46 °F 67 % S 23 mph 41 mph 29.03 in 0.0 in Light Rain / Windy
+4:20 PM 58 °F 46 °F 65 % SSW 22 mph 33 mph 29.02 in 0.0 in Mostly Cloudy / Windy
+4:53 PM 58 °F 46 °F 65 % S 24 mph 39 mph 29.01 in 0.0 in Mostly Cloudy / Windy
+5:53 PM 58 °F 47 °F 67 % SSW 22 mph 33 mph 29.01 in 0.0 in Mostly Cloudy / Windy
+6:53 PM 58 °F 47 °F 67 % S 22 mph 30 mph 29.02 in 0.0 in Cloudy / Windy
+7:15 PM 57 °F 47 °F 69 % SSW 23 mph 35 mph 29.03 in 0.0 in Thunder / Windy
+7:24 PM 56 °F 47 °F 72 % WSW 30 mph 45 mph 29.08 in 0.1 in T-Storm / Windy
+7:30 PM 53 °F 46 °F 77 % SW 21 mph 45 mph 29.07 in 0.1 in Light Rain with Thunder
+7:44 PM 52 °F 43 °F 71 % S 17 mph 29 mph 29.01 in 0.1 in Light Rain with Thunder
+7:53 PM 53 °F 43 °F 69 % SSE 10 mph 25 mph 28.98 in 0.1 in Thunder
+8:01 PM 54 °F 46 °F 75 % S 15 mph 29 mph 28.99 in 0.0 in Mostly Cloudy
+8:22 PM 55 °F 49 °F 80 % S 17 mph 26 mph 29.01 in 0.0 in Light Rain with Thunder
+8:53 PM 55 °F 48 °F 77 % S 18 mph 30 mph 29.00 in 0.0 in Light Rain with Thunder
+9:12 PM 55 °F 48 °F 77 % SSW 22 mph 38 mph 29.00 in 0.0 in Mostly Cloudy / Windy
+9:53 PM 55 °F 49 °F 80 % SSW 22 mph 31 mph 29.01 in 0.0 in Thunder / Windy
+10:18 PM 55 °F 49 °F 80 % SSW 21 mph 31 mph 29.01 in 0.0 in Mostly Cloudy / Windy
+10:53 PM 55 °F 48 °F 77 % SSW 21 mph 36 mph 29.00 in 0.0 in Partly Cloudy / Windy
+11:53 PM 55 °F 48 °F 77 % SSW 21 mph 32 mph 29.01 in 0.0 in Fair / Windy
+12:53 AM 54 °F 48 °F 80 % SW 15 mph 29 mph 29.03 in 0.0 in Partly Cloudy

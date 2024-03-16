@@ -1,0 +1,38 @@
+Time
+Temperature
+Dew Point
+Humidity
+Wind
+Wind Speed
+Wind Gust
+Pressure
+Precip.
+Condition
+1:53 AM 51 °F 50 °F 96 % SSW 7 mph 0 mph 29.48 in 0.0 in Fair
+2:53 AM 51 °F 50 °F 96 % SSW 5 mph 0 mph 29.48 in 0.0 in Fair
+3:53 AM 50 °F 49 °F 96 % S 5 mph 0 mph 29.46 in 0.0 in Fair
+4:53 AM 49 °F 49 °F 100 % SSW 5 mph 0 mph 29.45 in 0.0 in Partly Cloudy
+5:53 AM 40 °F 40 °F 100 % CALM 0 mph 0 mph 29.44 in 0.0 in Fair
+6:53 AM 39 °F 39 °F 100 % CALM 0 mph 0 mph 29.45 in 0.0 in Patches of Fog
+7:46 AM 40 °F 40 °F 100 % CALM 0 mph 0 mph 29.45 in 0.0 in Mist
+7:53 AM 39 °F 39 °F 100 % CALM 0 mph 0 mph 29.46 in 0.0 in Mist
+8:12 AM 41 °F 41 °F 100 % CALM 0 mph 0 mph 29.47 in 0.0 in Mist
+8:24 AM 43 °F 43 °F 100 % CALM 0 mph 0 mph 29.47 in 0.0 in Patches of Fog
+8:53 AM 47 °F 47 °F 100 % CALM 0 mph 0 mph 29.47 in 0.0 in Patches of Fog
+9:53 AM 56 °F 54 °F 93 % CALM 0 mph 0 mph 29.48 in 0.0 in Fair
+10:53 AM 66 °F 59 °F 78 % SSW 13 mph 0 mph 29.48 in 0.0 in Fair
+11:53 AM 71 °F 60 °F 68 % SW 12 mph 0 mph 29.47 in 0.0 in Fair
+12:53 PM 75 °F 61 °F 62 % SW 12 mph 0 mph 29.45 in 0.0 in Fair
+1:53 PM 77 °F 60 °F 56 % S 9 mph 0 mph 29.41 in 0.0 in Mostly Cloudy
+2:53 PM 79 °F 59 °F 50 % S 13 mph 20 mph 29.38 in 0.0 in Mostly Cloudy
+3:53 PM 79 °F 58 °F 48 % SSE 12 mph 0 mph 29.36 in 0.0 in Partly Cloudy
+4:53 PM 80 °F 57 °F 45 % SSW 13 mph 0 mph 29.33 in 0.0 in Partly Cloudy
+5:53 PM 79 °F 57 °F 47 % SSE 10 mph 0 mph 29.32 in 0.0 in Fair
+6:53 PM 77 °F 59 °F 54 % SSE 10 mph 0 mph 29.33 in 0.0 in Mostly Cloudy
+7:53 PM 72 °F 61 °F 68 % SSE 10 mph 0 mph 29.33 in 0.0 in Partly Cloudy
+8:53 PM 69 °F 61 °F 75 % SSE 10 mph 20 mph 29.36 in 0.0 in Partly Cloudy
+9:53 PM 66 °F 61 °F 84 % SSE 12 mph 0 mph 29.37 in 0.0 in Partly Cloudy
+10:53 PM 63 °F 60 °F 90 % S 8 mph 0 mph 29.38 in 0.0 in Partly Cloudy
+11:53 PM 62 °F 60 °F 93 % S 9 mph 0 mph 29.37 in 0.0 in Partly Cloudy
+12:30 AM 62 °F 60 °F 93 % S 12 mph 0 mph 29.36 in 0.0 in Mostly Cloudy
+12:53 AM 62 °F 60 °F 93 % S 9 mph 0 mph 29.36 in 0.0 in Mostly Cloudy
