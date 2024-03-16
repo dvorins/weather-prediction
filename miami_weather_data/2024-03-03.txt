@@ -1,0 +1,39 @@
+Time
+Temperature
+Dew Point
+Humidity
+Wind
+Wind Speed
+Wind Gust
+Pressure
+Precip.
+Condition
+1:53 AM 73 °F 67 °F 81 % ESE 3 mph 0 mph 30.09 in 0.0 in Cloudy
+2:53 AM 73 °F 68 °F 84 % CALM 0 mph 0 mph 30.08 in 0.0 in Cloudy
+3:00 AM 74 °F 68 °F 82 % ESE 3 mph 0 mph 30.08 in 0.0 in Mostly Cloudy
+3:53 AM 73 °F 68 °F 84 % CALM 0 mph 0 mph 30.07 in 0.0 in Cloudy
+4:53 AM 73 °F 68 °F 84 % ESE 7 mph 0 mph 30.06 in 0.0 in Cloudy
+5:47 AM 73 °F 68 °F 83 % E 5 mph 0 mph 30.07 in 0.0 in Cloudy
+5:53 AM 73 °F 69 °F 87 % E 5 mph 0 mph 30.07 in 0.0 in Cloudy
+6:37 AM 73 °F 69 °F 87 % ESE 7 mph 0 mph 30.07 in 0.0 in Cloudy
+6:53 AM 73 °F 69 °F 87 % SE 7 mph 0 mph 30.07 in 0.0 in Cloudy
+7:53 AM 74 °F 69 °F 85 % ESE 9 mph 0 mph 30.07 in 0.0 in Cloudy
+8:53 AM 74 °F 69 °F 85 % SE 7 mph 0 mph 30.09 in 0.0 in Cloudy
+9:53 AM 76 °F 69 °F 79 % SE 10 mph 0 mph 30.10 in 0.0 in Cloudy
+10:53 AM 79 °F 69 °F 72 % SE 10 mph 21 mph 30.10 in 0.0 in Cloudy
+11:53 AM 80 °F 69 °F 69 % SE 12 mph 0 mph 30.10 in 0.0 in Mostly Cloudy
+12:53 PM 80 °F 68 °F 67 % SSE 9 mph 21 mph 30.09 in 0.0 in Mostly Cloudy
+1:53 PM 81 °F 67 °F 62 % SE 13 mph 21 mph 30.06 in 0.0 in Mostly Cloudy
+2:53 PM 82 °F 67 °F 60 % ESE 9 mph 0 mph 30.04 in 0.0 in Mostly Cloudy
+3:53 PM 79 °F 68 °F 69 % SE 13 mph 21 mph 30.02 in 0.0 in Mostly Cloudy
+4:53 PM 78 °F 69 °F 74 % ESE 10 mph 0 mph 30.01 in 0.0 in Cloudy
+5:53 PM 77 °F 70 °F 79 % SSE 10 mph 22 mph 30.02 in 0.0 in Cloudy
+6:53 PM 77 °F 69 °F 76 % ESE 7 mph 0 mph 30.02 in 0.0 in Cloudy
+7:53 PM 76 °F 70 °F 82 % SE 7 mph 0 mph 30.03 in 0.0 in Cloudy
+8:53 PM 76 °F 70 °F 82 % SE 6 mph 0 mph 30.04 in 0.0 in Cloudy
+9:40 PM 73 °F 69 °F 87 % CALM 0 mph 0 mph 30.07 in 0.0 in Cloudy
+9:53 PM 73 °F 68 °F 84 % CALM 0 mph 0 mph 30.07 in 0.0 in Cloudy
+10:39 PM 72 °F 68 °F 87 % ESE 6 mph 0 mph 30.07 in 0.2 in Light Rain
+10:53 PM 71 °F 69 °F 93 % E 5 mph 0 mph 30.06 in 0.2 in Mostly Cloudy
+11:53 PM 71 °F 68 °F 90 % E 3 mph 0 mph 30.05 in 0.0 in Partly Cloudy
+12:53 AM 71 °F 68 °F 90 % NNW 3 mph 0 mph 30.05 in 0.0 in Mostly Cloudy
