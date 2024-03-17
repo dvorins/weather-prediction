@@ -1,0 +1,12 @@
+Time
+Temperature
+Dew Point
+Humidity
+Wind
+Wind Speed
+Wind Gust
+Pressure
+Precip.
+Condition
+1:53 AM 77 °F 73 °F 88 % S 6 mph 0 mph 29.93 in 0.0 in Mostly Cloudy
+3:53 AM 76 °F 73 °F 91 % S 6 mph 0 mph 29.91 in 0.0 in Mostly Cloudy
